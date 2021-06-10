@@ -1,0 +1,50 @@
+{
+  "name": "ta.js",
+  "version" : "1.2.5",
+  "description": "Financial Technical Analysis in JavaScript",
+  "main": "ts.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deonis1/Technical-Analysis"
+  },
+  "keywords": [
+    "financial",
+    "technical",
+    "analysis",
+    "ta",
+    "simple",
+    "weighted",
+    "exponential",
+    "sma",
+    "wma",
+    "ema",
+    "aroon",
+    "rsi",
+    "stochastics",
+    "macd",
+    "atr",
+    "vwap",
+    "lsma",
+    "least",
+    "squares",
+    "average",
+    "kama",
+    "variance",
+    "correlation",
+    "aad",
+    "mad",
+    "ssd",
+    "kmeans",
+    "monte",
+    "carlo"
+  ],
+  "author": "Nino Kroesen, Denis Spasyuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deonis1/Technical-Analysis/issues"
+  },
+  "homepage": "https://github.com/deonis1/Technical-Analysis/#readme"
+}
