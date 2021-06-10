@@ -1,23 +1,17 @@
 # Technical Analysis (ta.js)
 
-ta.js is a JavaScript module for dealing with financial technical analysis.
+This is modified version of ta.js, a JavaScript module for dealing with financial technical analysis. The original repository could be found here:  
 
-## Installation
+https://github.com/Bitvested/ta.js
 
-#### NPM
-Use the package manager npm to install ta.js.
-
-```bash
-npm install ta.js --save
-```
-#### CDN
-```html
-<script src="https://unpkg.com/ta.js/ta.min.js"></script>
-```
 ## Usage
-```javascript
-const ta = require('ta.js');
+```nodejs
+const ta = require('ta.min.js');
 ```
+```html
+<script src="./ta.min.js"></script>
+```
+
 
 ## Examples
 - [Simple Moving Average](#sma)
